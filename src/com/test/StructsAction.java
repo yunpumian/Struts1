@@ -18,6 +18,7 @@ public class StructsAction extends ActionSupport {
     public String getName() {
         return name;
     }
+    public int age;
 
     public void setName(String name) {
         this.name = name;
